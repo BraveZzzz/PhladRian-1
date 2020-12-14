@@ -10,8 +10,6 @@ git remote add origin https://github.com/Shiratasa/PhladRian.git
 >>> git push -u origin main
 
 ------------------------------------------------------------------------------
-Profile
-{
-    Shiratasa
-    Kurenai6!
-}
+
+or
+>>> git pull origin master --rebase
